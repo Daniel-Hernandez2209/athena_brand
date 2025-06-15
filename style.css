@@ -24,7 +24,27 @@ box-shadow: none;
 .custom-nav-wrap {
   flex-wrap: nowrap;
 }
+.btnBuscar {
+  background-color: #F4EBE0;
+  color: #CEBCA6;
+  border-color: #CEBCA6;
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.btnBuscar:hover {
+  background-color: #CEBCA6;
+  color: #F4EBE0;}
 
+ .inputBuscar:focus {
+    box-shadow: none ;
+    border: 1px solid #CEBCA6;
+ }
+ .icons {
+    color: #CEBCA6;
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
+ }
 
 @media(max-width: 280px) {
   .custom-nav-wrap {
