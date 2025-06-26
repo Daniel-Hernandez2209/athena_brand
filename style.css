@@ -62,9 +62,7 @@ box-shadow: none;
 
   
   }
-  .carousel-inner{
-    border-radius: 2rem;
-  }
+
 
 @media(max-width: 280px) {
   .custom-nav-wrap {
