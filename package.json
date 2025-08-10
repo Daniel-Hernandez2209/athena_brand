@@ -1,0 +1,23 @@
+{
+  "name": "athena_brand",
+  "version": "1.0.0",
+  "description": "tienda de ropa",
+  "main": "index.js",
+  "scripts": {
+    "start": " node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Hernandez2209/athena_brand.git"
+  },
+  "author": "Daniel Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Hernandez2209/athena_brand/issues"
+  },
+  "homepage": "https://github.com/Daniel-Hernandez2209/athena_brand#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
